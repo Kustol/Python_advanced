@@ -1,0 +1,1 @@
+__all__ = ['pairs_of_nums', 'nickname', 'names_nums', 'files_generator', 'sort_files', 'rename_files']
