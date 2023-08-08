@@ -1,0 +1,113 @@
+[
+  {
+    "name": "module",
+    "parent_dir": "C:\\Users\\smert\\PycharmProjects\\Python_advanced\\HW_8",
+    "type": "directory",
+    "size": 10212,
+    "children": [
+      {
+        "name": "csv2json.py",
+        "parent_dir": "C:\\Users\\smert\\PycharmProjects\\Python_advanced\\HW_8\\module",
+        "type": "file",
+        "size": 892
+      },
+      {
+        "name": "csv2pickle.py",
+        "parent_dir": "C:\\Users\\smert\\PycharmProjects\\Python_advanced\\HW_8\\module",
+        "type": "file",
+        "size": 617
+      },
+      {
+        "name": "dir_info.py",
+        "parent_dir": "C:\\Users\\smert\\PycharmProjects\\Python_advanced\\HW_8\\module",
+        "type": "file",
+        "size": 4923
+      },
+      {
+        "name": "json2csv.py",
+        "parent_dir": "C:\\Users\\smert\\PycharmProjects\\Python_advanced\\HW_8\\module",
+        "type": "file",
+        "size": 761
+      },
+      {
+        "name": "names_and_nums2json.py",
+        "parent_dir": "C:\\Users\\smert\\PycharmProjects\\Python_advanced\\HW_8\\module",
+        "type": "file",
+        "size": 621
+      },
+      {
+        "name": "pickle2cvs.py",
+        "parent_dir": "C:\\Users\\smert\\PycharmProjects\\Python_advanced\\HW_8\\module",
+        "type": "file",
+        "size": 786
+      },
+      {
+        "name": "pickle2json.py",
+        "parent_dir": "C:\\Users\\smert\\PycharmProjects\\Python_advanced\\HW_8\\module",
+        "type": "file",
+        "size": 516
+      },
+      {
+        "name": "usr2json.py",
+        "parent_dir": "C:\\Users\\smert\\PycharmProjects\\Python_advanced\\HW_8\\module",
+        "type": "file",
+        "size": 968
+      },
+      {
+        "name": "__init__.py",
+        "parent_dir": "C:\\Users\\smert\\PycharmProjects\\Python_advanced\\HW_8\\module",
+        "type": "file",
+        "size": 128
+      },
+      {
+        "name": "__pycache__",
+        "parent_dir": "C:\\Users\\smert\\PycharmProjects\\Python_advanced\\HW_8\\module",
+        "type": "directory",
+        "size": 0,
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "names_and_nums.json",
+    "parent_dir": "C:\\Users\\smert\\PycharmProjects\\Python_advanced\\HW_8",
+    "type": "file",
+    "size": 321
+  },
+  {
+    "name": "names_and_nums.pickle",
+    "parent_dir": "C:\\Users\\smert\\PycharmProjects\\Python_advanced\\HW_8",
+    "type": "file",
+    "size": 239
+  },
+  {
+    "name": "names_and_nums.txt",
+    "parent_dir": "C:\\Users\\smert\\PycharmProjects\\Python_advanced\\HW_8",
+    "type": "file",
+    "size": 256
+  },
+  {
+    "name": "Task_2.csv",
+    "parent_dir": "C:\\Users\\smert\\PycharmProjects\\Python_advanced\\HW_8",
+    "type": "file",
+    "size": 112
+  },
+  {
+    "name": "Task_2.json",
+    "parent_dir": "C:\\Users\\smert\\PycharmProjects\\Python_advanced\\HW_8",
+    "type": "file",
+    "size": 223
+  },
+  {
+    "name": "Task_2.pickle",
+    "parent_dir": "C:\\Users\\smert\\PycharmProjects\\Python_advanced\\HW_8",
+    "type": "file",
+    "size": 142
+  },
+  {
+    "name": "Task_6.csv",
+    "parent_dir": "C:\\Users\\smert\\PycharmProjects\\Python_advanced\\HW_8",
+    "type": "file",
+    "size": 187
+  }
+]
