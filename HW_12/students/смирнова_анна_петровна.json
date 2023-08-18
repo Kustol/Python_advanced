@@ -1,0 +1,53 @@
+{
+  "Maths": {
+    "marks": [],
+    "tests": []
+  },
+  "Physics": {
+    "marks": [],
+    "tests": []
+  },
+  "Chemistry": {
+    "marks": [
+      {
+        "datetime": "18-08-2023 23:15",
+        "mark": 3,
+        "comment": "classwork"
+      },
+      {
+        "datetime": "18-08-2023 23:15",
+        "mark": 4,
+        "comment": "homework"
+      }
+    ],
+    "tests": []
+  },
+  "Biology": {
+    "marks": [],
+    "tests": [
+      {
+        "datetime": "18-08-2023 23:15",
+        "mark": 78,
+        "comment": ""
+      }
+    ]
+  },
+  "Literature": {
+    "marks": [],
+    "tests": []
+  },
+  "Geography": {
+    "marks": [],
+    "tests": [
+      {
+        "datetime": "18-08-2023 23:15",
+        "mark": 91,
+        "comment": ""
+      }
+    ]
+  },
+  "History": {
+    "marks": [],
+    "tests": []
+  }
+}
